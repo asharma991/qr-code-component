@@ -14,6 +14,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
+- Desktop
+
+  ![image](https://github.com/asharma991/qr-code-component/assets/63816545/7330a75c-c9d7-4390-be56-c94d1ab04aef)
+
+- Mobile
+  
+  ![image](https://github.com/asharma991/qr-code-component/assets/63816545/ef9f3ad7-4abf-414c-996e-09eadafe4c66)
+
 
 ### Links
 
